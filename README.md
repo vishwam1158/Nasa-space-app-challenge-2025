@@ -88,6 +88,18 @@ git clone https://github.com/vishwam1158/Nasa-space-app-challenge-2025.git
 
 ---
 
+<details>
+  <summary><b> 🎥 Demo Video </b></summary>
+
+  <p>
+    <video src="agro orbit video.mp4" poster="https://drive.google.com/uc?id=1wMXcOsRFA870uEHhhQuw9A83byxjv9Nu" controls width="720">
+      Your browser does not support the video tag.
+    </video>
+  </p>
+</details>
+
+---
+
 ## 🔮 Future Vision
 The journey is just beginning — next steps include:
 
