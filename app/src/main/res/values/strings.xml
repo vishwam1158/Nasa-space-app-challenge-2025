@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> Agro orbit </string>
+
+    <string name="ndvi_desc">Think of this as a plant health report card from space. Satellites use special cameras to see how green and dense plants are. A high NDVI value (like 0.8) means your crops are lush and healthy. A low value could mean they are stressed by drought or pests.</string>
+    <string name="soil_moisture_desc">NASA satellites can measure the amount of water hidden in the soil. This is super important! It tells you if your crops have enough water to drink or if a drought is on the way. Too much water can also be a problem, leading to floods.</string>
+
+    <string name="case_study_locusts">During the 2020 locust swarms in East Africa, NASA used NDVI data to help. As swarms of locusts ate crops, the NDVI values on the satellite maps dropped suddenly. This helped scientists track the damage and predict where the swarms might go next, saving other farms.</string>
+    <string name="case_study_drought">During the severe California drought from 2011-2017, NASA satellites provided critical soil moisture data. The maps showed groundwater levels dropping dangerously low, helping farmers and officials make tough decisions about water usage to save the most valuable crops.</string>
+    <string name="case_study_wildfire">In regions like California, NASA uses satellite data to monitor vegetation dryness and soil moisture to predict wildfire risk. By identifying high-risk areas, authorities can issue warnings and allocate resources to protect farms and communities before fires start.</string>
+
+</resources>
+
